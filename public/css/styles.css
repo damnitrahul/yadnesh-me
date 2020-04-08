@@ -1,0 +1,55 @@
+body{
+  font-family: "Ubuntu";
+  text-align: center;
+}
+h2
+{
+ font-family: "Sacramento";
+ font-size: 5rem;
+ padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.navbar-brand
+{
+ font-family: "Sacramento";
+}
+.navbar-nav{
+  text-align: right;
+}
+.footer{
+  padding: 3% 15%;
+  background-color: #000839;
+  text-align: center;
+  color: white;
+  margin: 0;
+}
+.navbar-dark{
+  background-color: #000839;
+}
+
+.contact-info{
+  padding: 20%;
+  background-color: #00a8cc; 
+  color: white;
+}
+
+.top_heading{
+  padding: 10%;
+  background-color: #ffa41b;
+  color: white;
+}
+
+.things{
+  padding-top: 7%;
+  background-color: #00a8cc;
+  padding-bottom: 7%;
+}
+
+.goals{
+  background-color: #005082;
+  color: white;
+  margin-bottom: 0;
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
